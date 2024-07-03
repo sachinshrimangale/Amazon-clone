@@ -1,2 +1,2 @@
 # Amazon-clone
-this is my amazon.com clone
+Using HTML, CSS & Javascript
